@@ -22,8 +22,8 @@ public class leetcode_1 {
     }
 
     /*
-     * 暴力遍历法
-     * O(n2)
+     * 暴力遍历法 (最优解)
+     * O(n^2)
      * O(1)
      */
     public static int[] twoSum(int[] nums, int target) {
